@@ -1,0 +1,17 @@
+{
+  "name": "techinover",
+  "version": "1.0.0",
+  "description": "reminder api",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Rasheed Ayoade",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.16.1"
+  }
+}
